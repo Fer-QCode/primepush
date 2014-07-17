@@ -1,8 +1,8 @@
 primepush
 =========
 
-PrimePush - Chat - Example
-This example has this jars: 
+<h1>PrimePush - Chat - Example</h1>
+This example has this jars:
 
 <ul>
   <li> commons-fileupload-1.3.1.jar </li>
